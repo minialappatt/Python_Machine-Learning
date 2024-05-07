@@ -1,0 +1,24 @@
+End of week 1 - Acceptances
+Preorder traversal of the constructed BST tree is [ 10 5 3 7 9 20 12 15 18 25 ]
+Preorder traversal of the constructed AVL tree is [ 10 7 5 3 9 15 12 20 18 25 ]
+
+
+End of week 2 – With new acceptances
+Preorder traversal of the rearranged BST tree is [ 10 5 3 7 9 8 20 12 11 15 13 18 25 30 ]
+Preorder traversal of the re-arranged AVL tree is [ 10 7 5 3 9 8 15 12 11 13 20 18 25 30 ]
+
+
+End of week 2 – After declines
+Preorder traversal of the rearranged BST tree is [ 10 5 3 7 8 20 13 11 15 25 30 ]
+Preorder traversal of the re-arranged AVL tree is [ 10 7 5 3 8 15 13 11 25 20 30 ]
+
+
+Randomly selected three volunteers = [10, 13, 5]
+BST:
+Employee # 10 is present in level 1 and its position is 1 from the left
+Employee # 13 is present in level 3 and its position is 3 from the left
+Employee # 5 is present in level 2 and its position is 1 from the left
+AVL:
+Employee # 10 is present in level 1 and its position is 1 from the left
+Employee # 13 is present in level 3 and its position is 3 from the left
+Employee # 5 is present in level 3 and its position is 1 from the left

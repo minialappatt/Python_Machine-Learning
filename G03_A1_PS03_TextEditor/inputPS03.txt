@@ -1,0 +1,17 @@
+AddText HW
+MoveLeft 2
+AddText -
+PrintText
+MoveRight 1
+AddText ell
+PrintText
+MoveRight 20
+AddText orld
+PrintText
+MoveLeft 30
+MoveRight 1
+DeleteText 4
+PrintText
+MoveRight 4
+AddText o
+PrintText
